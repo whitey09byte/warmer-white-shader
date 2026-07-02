@@ -1,4 +1,4 @@
-# Simple Warm Shader
+# warmer white Shader
 
 A lightweight Minecraft shader for OptiFine that subtly warms the game's colors, giving the world a slightly cozier appearance while preserving the original Minecraft style.
 
@@ -20,7 +20,7 @@ A lightweight Minecraft shader for OptiFine that subtly warms the game's colors,
 1. Download the shader pack.
 2. Move it into your Minecraft `shaderpacks` folder.
 3. Open **Options → Video Settings → Shaders**.
-4. Select **Simple Warm Shader**.
+4. Select **warmer white Shader**.
 
 ## Customization
 
