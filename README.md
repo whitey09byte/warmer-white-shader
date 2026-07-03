@@ -24,7 +24,7 @@ A lightweight Minecraft shader for OptiFine that subtly warms the game's colors,
 
 ## Customization
 
-You can adjust the warmth by editing this line in `final.fsh`:
+You can adjust the warmth by editing this line in `shaders/composite.fsh`:
 
 ```glsl
 float warmth = 1.15;
