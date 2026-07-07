@@ -7,11 +7,11 @@ uniform float viewHeight;
 
 
 void main() {
-    
+    // 
     vec4 color = texture2D(colortex0, gl_FragCoord.xy / vec2(viewWidth, viewHeight));
     
-    
-    float warmth = 1.15; 
+    //
+    float warmth = 1.15; //
     vec3 warmColor = color.rgb;
     warmColor.r *= warmth;        
     warmColor.b *= (1.0 / warmth); 
